@@ -31,4 +31,4 @@
 
 - ⚡ Fun fact: 
    - I love downloading the most irrelivant things
-   - Manually scraping the web
+   - In my spare time, I enjoy manually scraping the web
