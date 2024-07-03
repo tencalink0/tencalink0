@@ -3,21 +3,22 @@
 - 👀 I’m interested in:
   -  Programming
   -  Chess
-  -  Languages!!! - ❤️❤️ English (Structure), Spanish (Speaking), Turkish, German (Songs), Italian ❤️❤️
+  -  Languages!!! - ❤️❤️ English (Structure), Spanish (Speaking), Turkish, German (Songs), Italian, Greek ❤️❤️
 
-- 😍 My favourite langauges:
+- 😍 My langauges:
   -  Python
-  -  Javascript
+  -  Javascript/Node.JS
   -  VBScript
   -  VB.NET
+  -  HTML/CSS
 
 - 🌱 I’m currently learning:
+  -  Rust
   -  C++
   -  C#
-  -  Solidity
 
 - 💞️ I’m looking to collaborate on:
-  -  Python web servers
+  -  Python & Node.JS web servers
   -  VBScript automations and programs
 
 - 📫 How to reach me:
@@ -28,7 +29,3 @@
   -  Object: Him
   -  Possessive: His
   -  Reflexive: Himself
-
-- ⚡ Fun fact: 
-   - I love downloading the most irrelivant things
-   - In my spare time, I enjoy manually scraping the web
