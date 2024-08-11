@@ -11,9 +11,10 @@
   -  VBScript
   -  VB.NET
   -  HTML/CSS
+  -  Rust
 
 - 🌱 I’m currently learning:
-  -  Rust
+  -  Solidity
   -  C++
   -  C#
 
