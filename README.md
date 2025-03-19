@@ -1,24 +1,16 @@
-- 👋 Hi, I’m @tencalink0
-
-- 👀 I’m interested in:
-  -  Programming
-  -  Chess
-  -  Languages!!! - ❤️❤️ English (Structure), Spanish (Speaking), Turkish, German (Songs), Italian, Greek ❤️❤️
-
-- 😍 My langauges:
-  -  Python
-  -  Javascript/Node.JS
-  -  VBScript
-  -  VB.NET
-  -  HTML/CSS
+Using:
+  -  Javascript/Typescript
   -  Rust
+  -  Python
+  -  Verilog
+  -  VBScript/VB.NET
 
-- 🌱 I’m currently learning:
+Learning:
   -  Solidity
   -  C++
 
-- 😄 Pronouns: 
-  -  Subject: He
-  -  Object: Him
-  -  Possessive: His
-  -  Reflexive: Himself
+Interested in:
+- Web Dev
+- Blockchain and Web3
+- In-depth ttl
+- ML
