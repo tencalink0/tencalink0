@@ -7,10 +7,10 @@ Using:
 
 Learning:
   -  Solidity
-  -  C++
+  -  C#
 
 Interested in:
 - Web Dev
 - Blockchain and Web3
-- In-depth ttl
+- TTL
 - ML
